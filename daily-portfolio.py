@@ -60,6 +60,7 @@ print("RECENT LOW: $99,000.00")
 print("-------------------------")
 print("RECOMMENDATION: BUY!")
 print("RECOMMENDATION REASON: TODO")
+#do we want to give recommendations??
 print("-------------------------")
 print("HAPPY INVESTING!")
 print("-------------------------")
